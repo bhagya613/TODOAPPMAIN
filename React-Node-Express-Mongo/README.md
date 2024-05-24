@@ -48,12 +48,12 @@ This is a starter template for building applications using React for the fronten
  
 1. Clone the repository:
     ```bash
-    git clone https://github.com/SyedFaiz786/TodoApp.git
+    git clone https://github.com/bhagya613/TODOAPPMAIN.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd TodoApp-main/React-Node-Express-Mongo
+    cd TODOAPPMAIN/React-Node-Express-Mongo
     ```
 
 3. Install dependencies for the client:
